@@ -1,10 +1,15 @@
 .robot-container {
+    
 }
 
 .robot-face-shape {
+    width: 400px;
+    height: 400px;
+    background-color: blueviolet;
 }
 
 .robot-eye-left {
+    background-
 }
 
 .robot-eye-right {
